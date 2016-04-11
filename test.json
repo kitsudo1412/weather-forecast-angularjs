@@ -1,0 +1,67 @@
+{
+  "city": {
+    "id": 1561096,
+    "name": "Xóm Pho",
+    "coord": {
+      "lon": 105.849998,
+      "lat": 21.033331
+    },
+    "country": "VN",
+    "population": 0
+  },
+  "cod": "200",
+  "message": 0.0249,
+  "cnt": 2,
+  "list": [
+    {
+      "dt": 1458104400,
+      "temp": {
+        "day": 299.42,
+        "min": 293.84,
+        "max": 300.3,
+        "night": 293.84,
+        "eve": 297.03,
+        "morn": 297
+      },
+      "pressure": 1021.33,
+      "humidity": 81,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 2.87,
+      "deg": 160,
+      "clouds": 88,
+      "rain": 0.49
+    },
+    {
+      "dt": 1458190800,
+      "temp": {
+        "day": 299.3,
+        "min": 294.47,
+        "max": 300.9,
+        "night": 294.47,
+        "eve": 298.02,
+        "morn": 294.66
+      },
+      "pressure": 1019.74,
+      "humidity": 90,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 3.81,
+      "deg": 145,
+      "clouds": 64,
+      "rain": 0.82
+    }
+  ]
+}

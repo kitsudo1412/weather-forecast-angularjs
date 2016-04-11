@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="angular-resource.min.js" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/jquery.min.js" />
+      <root url="file://$PROJECT_DIR$/js/bootstrap.min.js" />
+      <root url="file://$PROJECT_DIR$/js/angular-route.min.js" />
+      <root url="file://$PROJECT_DIR$/js/angular-resource.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

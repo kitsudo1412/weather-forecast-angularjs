@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="angular-route.min.js" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/angular-route.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

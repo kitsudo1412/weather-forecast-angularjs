@@ -1,0 +1,8 @@
+<p><a href="./">Back to search</a></p>
+<hr />
+<h1>Forecast for {{ weatherResult.city.name }} ({{ city }})</h1>
+
+<label for="numberOfResults">Number of Results: </label>
+<select id="numberOfResults" ng-model="days" ng-change="changeNumberOfResults()" ng-options="number for number in numberOfResultChoices track by number"></select>
+
+<weather-report class="row" data-date-format="{{ dateFormat }}" data-city-day="w" ng-repeat="w in weatherResult.list" func-convert-to-celsius="convertToCelsius(degK)" func-convert-to-date="convertToDate(dt)"></weather-report>
